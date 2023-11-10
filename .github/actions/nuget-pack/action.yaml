@@ -1,5 +1,5 @@
 name: 'NuGet Pack'
-description: 'Packs RocketModFix NuGet packages'
+description: 'Packs UnturnedGuard NuGet packages'
 inputs:
   nuspec_path:
     description: 'Path to .nuspec'
