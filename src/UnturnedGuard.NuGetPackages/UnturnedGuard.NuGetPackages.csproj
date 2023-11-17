@@ -30,7 +30,6 @@
     <PackageReference Include="Nito.AsyncEx.Context" Version="5.1.2"/>
     <PackageReference Include="Nito.AsyncEx.Coordination" Version="5.1.2"/>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" GeneratePathProperty="true"/>
-    <PackageReference Include="SteamWebAPI2" Version="4.2.0"/>
     <PackageReference Include="OpenMod.UniTask" Version="2021.2.4.1"/>
     <PackageReference Include="Lib.Harmony" Version="2.2.2"/>
   </ItemGroup>
